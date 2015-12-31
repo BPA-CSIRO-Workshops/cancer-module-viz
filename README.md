@@ -1,5 +1,5 @@
-# cancer-module-cnv
-Bioinformatics Training Platform (BTP) Module: Variants visualization
+# cancer-module-viz
+Bioinformatics Training Platform (BTP) Module: Variants Visualization
 
   * Topic
     * Variants visualization
