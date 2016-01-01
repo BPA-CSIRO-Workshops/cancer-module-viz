@@ -13,9 +13,7 @@ Bioinformatics Training Platform (BTP) Module: Variants Visualization
     * Generate circos like graphics using R
   * Time Required
     * 
-  * Compute Requirements
-    * 
-	
+
 License
 =======
 The contents of this repository are released under the Creative Commons
