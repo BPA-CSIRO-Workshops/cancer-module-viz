@@ -4,18 +4,18 @@ btp::modules:
       - 'visualization'
     data:
       circos.R: 
-        source: 'https://s3-ap-southeast-2.amazonaws.com/cancer-data-visualization'
+        source: 'https://swift.rc.nectar.org.au:8888/v1/AUTH_d57d0879288840e199bb1a49ae012c78/CancerDataViz'
         targets: 
           - 'visualization/circos.R'
       delly.somatic.vcf: 
-        source: 'https://s3-ap-southeast-2.amazonaws.com/cancer-data-visualization'
+        source: 'https://swift.rc.nectar.org.au:8888/v1/AUTH_d57d0879288840e199bb1a49ae012c78/CancerDataViz'
         targets: 
           - 'visualization/delly.somatic.vcf'
       mutect.somatic.vcf: 
-        source: 'https://s3-ap-southeast-2.amazonaws.com/cancer-data-visualization'
+        source: 'https://swift.rc.nectar.org.au:8888/v1/AUTH_d57d0879288840e199bb1a49ae012c78/CancerDataViz'
         targets: 
           - 'visualization/mutect.somatic.vcf'
       scones.somatic.tsv: 
-        source: 'https://s3-ap-southeast-2.amazonaws.com/cancer-data-visualization'
+        source: 'https://swift.rc.nectar.org.au:8888/v1/AUTH_d57d0879288840e199bb1a49ae012c78/CancerDataViz'
         targets: 
           - 'visualization/scones.somatic.tsv'
