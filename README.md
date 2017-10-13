@@ -1,4 +1,4 @@
-# cancer-module-viz
+# Variants Visualization
 Bioinformatics Training Platform (BTP) Module: Variants Visualization
 
   * Topic
